@@ -1,12 +1,12 @@
 Podman
 =========
 
-A brief description of the role goes here.
+This is the Podman role for my personal workstation setup. It's really basic "works ONLY on my machine" and currently you should NOT TO USE this role. Maybe in some future i will learn how to make this role "production" ready, but currently this is not my main goal. I basicaqlly need just to setup my workstation from scratch.
 
 Requirements
 ------------
 
-Any pre-requisites that may not be covered by Ansible itself or the role should be mentioned here. For instance, if the role uses the EC2 module, it may be a good idea to mention in this section that the boto package is required.
+This role is tailored to be used in Fedora envirionment.
 
 Role Variables
 --------------
